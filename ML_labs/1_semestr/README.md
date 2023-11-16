@@ -35,4 +35,6 @@ https://habr.com/ru/companies/wunderfund/articles/316826/
 http://esa.github.io/pygmo/documentation/algorithms.html        
 Генетические алгоритмы       
 https://habr.com/ru/articles/498308/      
+Визуализация    
+https://habr.com/ru/articles/502958/    
 
