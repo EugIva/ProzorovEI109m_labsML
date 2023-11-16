@@ -30,4 +30,8 @@ https://readme-typing-svg.herokuapp.com/demo/
 https://habr.com/ru/articles/649363/    
 https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/    
 Про юпитерноутбук:    
-https://habr.com/ru/companies/wunderfund/articles/316826/    
+https://habr.com/ru/companies/wunderfund/articles/316826/      
+Алгоритмы pygmo    
+http://esa.github.io/pygmo/documentation/algorithms.html        
+
+
