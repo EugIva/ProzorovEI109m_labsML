@@ -33,8 +33,11 @@ https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-
 https://habr.com/ru/companies/wunderfund/articles/316826/      
 Алгоритмы pygmo    
 http://esa.github.io/pygmo/documentation/algorithms.html        
+https://docs.tudat.space/en/latest/_src_advanced_topics/optimization_pygmo.html          
 Генетические алгоритмы       
-https://habr.com/ru/articles/498308/      
+https://habr.com/ru/articles/498308/   
+https://habr.com/ru/companies/skillfactory/articles/549472/        
+https://habr.com/ru/articles/440234/        
 Визуализация    
 https://habr.com/ru/articles/502958/    
-
+https://fadeevlecturer.github.io/python_lectures/notebooks/pandas/dataframe.html      
